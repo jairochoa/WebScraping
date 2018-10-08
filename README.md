@@ -17,8 +17,8 @@ Para instalar las librerias de Python en Windows es preciso instalar pip des la 
 
 Luego escribir:
 
-    ```pip install bs4
-    urllib.request```
+    ``` pip install bs4
+    urllib.request ```
 
 Esta es una versión en desarrollo. Se están afinando los parámetros para sincronizar la solicitud realizada al servidor 
 con su respuesta de modo que este no interprete el continuo número de solicitudes con un ataque.   
